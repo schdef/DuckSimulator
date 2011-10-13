@@ -9,7 +9,7 @@ import de.schdef.slash.coding.designpatterns.duck.Quackable;
 import de.schdef.slash.coding.designpatterns.duck.QuackableCounter;
 import de.schdef.slash.coding.designpatterns.factory.AbstractDuckFactory;
 import de.schdef.slash.coding.designpatterns.factory.CountingDuckFactory;
-import de.schdef.slash.coding.designpatterns.oberserving.Quackologist;
+import de.schdef.slash.coding.designpatterns.observing.Quackologist;
 
 public class DuckSimulatorTest {
 

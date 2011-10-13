@@ -1,4 +1,4 @@
-package de.schdef.slash.coding.designpatterns.oberserving;
+package de.schdef.slash.coding.designpatterns.observing;
 
 import de.schdef.slash.coding.designpatterns.duck.Duck;
 

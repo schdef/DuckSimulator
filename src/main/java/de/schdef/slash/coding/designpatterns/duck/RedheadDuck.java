@@ -1,7 +1,7 @@
 package de.schdef.slash.coding.designpatterns.duck;
 
-import de.schdef.slash.coding.designpatterns.oberserving.ObservableHelper;
-import de.schdef.slash.coding.designpatterns.oberserving.QuackableObserver;
+import de.schdef.slash.coding.designpatterns.observing.ObservableHelper;
+import de.schdef.slash.coding.designpatterns.observing.QuackableObserver;
 
 public class RedheadDuck extends Duck {
 

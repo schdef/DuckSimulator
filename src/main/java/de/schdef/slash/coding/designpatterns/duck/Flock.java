@@ -2,7 +2,7 @@ package de.schdef.slash.coding.designpatterns.duck;
 import java.util.ArrayList;
 import java.util.List;
 
-import de.schdef.slash.coding.designpatterns.oberserving.QuackableObserver;
+import de.schdef.slash.coding.designpatterns.observing.QuackableObserver;
 
 
 public class Flock implements Quackable {

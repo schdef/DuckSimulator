@@ -1,4 +1,4 @@
-package de.schdef.slash.coding.designpatterns.oberserving;
+package de.schdef.slash.coding.designpatterns.observing;
 import java.util.ArrayList;
 import java.util.List;
 
